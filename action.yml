@@ -1,0 +1,5 @@
+name: Sandi Semantic Release Demo Action
+description: This action is used for personal testing
+runs:
+  using: node16
+  main: src/index.js
