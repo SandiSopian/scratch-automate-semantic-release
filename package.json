@@ -1,0 +1,22 @@
+{
+  "name": "scratch-automate-semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandiSopian/scratch-automate-semantic-release.git"
+  },
+  "author": "Sandi Sopian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandiSopian/scratch-automate-semantic-release/issues"
+  },
+  "homepage": "https://github.com/SandiSopian/scratch-automate-semantic-release#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0"
+  }
+}
