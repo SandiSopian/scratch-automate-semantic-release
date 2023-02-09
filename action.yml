@@ -1,5 +1,10 @@
 name: Sandi Semantic Release Demo Action
 description: This action is used for personal testing
+inputs:
+  person:
+    description: "The person to test"
+    required: true
+    default: "bam bam bam test"
 runs:
   using: node16
   main: src/index.js

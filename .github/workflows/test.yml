@@ -12,3 +12,5 @@ jobs:
         with:
           node-version: 16
       - uses: ./
+      - uses: ./
+          person: 'Spiderman'
