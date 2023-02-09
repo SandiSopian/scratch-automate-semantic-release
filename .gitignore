@@ -18,7 +18,7 @@
 *.httr-oauth*
 
 # Private Node Modules
-node_modules/
+node_modules/ 
 creds.js
 
 # Private Files
@@ -45,7 +45,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
